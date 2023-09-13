@@ -1,1 +1,11 @@
+git init
+git clone
+git add
+git commit
+git log
+git diff
+git checkout -b UjBranchnev
+git checkout master
+git branch --delete NemKellBranch
+
 
